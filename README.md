@@ -1,2 +1,4 @@
 # Análise Exploratória de Dados sobre Qualidade de Vinhos 
-O objetivo deste projeto é explorar um conjunto de dados relacionado à qualidade de vinhos e entender os fatores que influenciam essa qualidade.
+<p> A qualidade do vinho é determinada por vários fatores químicos, como acidez, açúcar residual, álcool, etc.
+O objetivo do projeto é entender como esses fatores estão correlacionados com a qualidade percebida pelos consumidores.
+Fonte dos dados: Conjunto de dados público "Wine Quality Dataset" disponível no UCI Machine Learning </p>
