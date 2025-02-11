@@ -21,11 +21,15 @@ Este projeto tem como objetivo explorar o conjunto de dados de qualidade dos vin
    - A acidez volátil e a densidade possuem impacto negativo na avaliação do vinho.
    - A maioria dos vinhos analisados apresenta qualidade entre 5 e 6.
 
-## O que ainda falta implementar?
+## Versão 2.0
 
-- Melhorar a análise de outliers e verificar se há necessidade de tratamento.
-- Aplicar métodos estatísticos mais avançados para confirmar padrões identificados.
-- Documentar melhor os códigos e criar um fluxo mais organizado para reprodutibilidade.
+- Adição de Análise Estatística: Adicionei uma análise estatística utilizando o teste t de Student para comparar as médias de diferentes grupos de qualidade de vinho, confirmando a influência do teor alcoólico na qualidade.
+
+- Análise de Outliers: Implementei uma análise detalhada de outliers usando o método IQR, identificando as variáveis mais impactadas e comparando as médias com e sem outliers.
+
+- Melhoria na Visualização: Aprimorei a visualização de dados com gráficos de barras e boxplots, facilitando a identificação de padrões e outliers.
+
+- Documentação e Clareza: Adicionei comentários e explicações detalhadas ao longo do código para melhorar a clareza e a documentação.
 
 ## Como executar o projeto?
 
