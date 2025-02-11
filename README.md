@@ -25,7 +25,6 @@ Este projeto tem como objetivo explorar o conjunto de dados de qualidade dos vin
 
 - Melhorar a análise de outliers e verificar se há necessidade de tratamento.
 - Aplicar métodos estatísticos mais avançados para confirmar padrões identificados.
-- Explorar algoritmos de machine learning para prever a qualidade dos vinhos com base nas características químicas.
 - Documentar melhor os códigos e criar um fluxo mais organizado para reprodutibilidade.
 
 ## Como executar o projeto?
