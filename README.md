@@ -43,9 +43,6 @@ Este projeto tem como objetivo explorar o conjunto de dados de qualidade dos vin
    ```
 3. Execute o script no ambiente de sua preferência (Google Colab, Jupyter Notebook ou Python puro).
 
-## Status do Projeto
-
-Este projeto ainda está **em desenvolvimento**, e novas melhorias serão adicionadas conforme avanço na análise. Feedbacks e sugestões são sempre bem-vindos!
 
 ---
 
